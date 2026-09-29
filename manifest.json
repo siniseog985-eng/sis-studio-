@@ -1,0 +1,19 @@
+{
+  "name": "LP STUDIO",
+  "short_name": "LP STUDIO",
+  "description": "LP STUDIO — Album & Lyrics Workspace",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "./lp-studio-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
